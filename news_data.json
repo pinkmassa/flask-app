@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Universities Adopt AI-Powered Learning Platforms for Personalized Education",
+        "image_url": "https://images.unsplash.com/photo-1501504905252-473c47e087f8",
+        "description": "Major universities across the country are implementing artificial intelligence systems to create personalized learning experiences for students, adapting course content based on individual progress and learning styles.",
+        "category_id": 3
+    },
+    {
+        "id": 2,
+        "title": "Study Reveals Benefits of Bilingual Education in Early Childhood",
+        "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b",
+        "description": "New research shows that children enrolled in bilingual education programs demonstrate enhanced cognitive flexibility and problem-solving skills compared to monolingual peers.",
+        "category_id": 3
+    },
+    {
+        "id": 3,
+        "title": "Government Announces $2 Billion Investment in STEM Education",
+        "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d",
+        "description": "The Department of Education unveiled a comprehensive funding package aimed at improving science, technology, engineering, and mathematics programs in public schools nationwide.",
+        "category_id": 3
+    },
+    {
+        "id": 4,
+        "title": "Virtual Reality Transforms Medical School Training Programs",
+        "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d",
+        "description": "Medical schools are incorporating virtual reality simulations to provide students with hands-on surgical practice and diagnostic experience in a risk-free environment.",
+        "category_id": 3
+    },
+    {
+        "id": 5,
+        "title": "Remote Learning Options Become Permanent at Major School Districts",
+        "image_url": "https://images.unsplash.com/photo-1588072432836-e10032774350",
+        "description": "Following the pandemic era, several large school districts have decided to maintain hybrid learning models, offering families continued flexibility in how their children attend classes.",
+        "category_id": 3
+    },
+    {
+        "id": 6,
+        "title": "Teachers Report Improved Student Engagement with Project-Based Learning",
+        "image_url": "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45",
+        "description": "Educators implementing project-based learning approaches report higher levels of student motivation, critical thinking, and real-world skill development across all grade levels.",
+        "category_id": 3
+    },
+    {
+        "id": 7,
+        "title": "College Enrollment Rates Show First Increase in Five Years",
+        "image_url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1",
+        "description": "New data indicates a reversal in the declining trend of college enrollment, with community colleges seeing the most significant gains as students seek affordable education options.",
+        "category_id": 3
+    },
+    {
+        "id": 8,
+        "title": "Schools Integrate Mental Health Education into Core Curriculum",
+        "image_url": "https://images.unsplash.com/photo-1509062522246-3755977927d7",
+        "description": "A growing number of schools are making mental health literacy a required subject, teaching students about emotional wellness, stress management, and seeking help when needed.",
+        "category_id": 3
+    },
+    {
+        "id": 9,
+        "title": "Coding Bootcamps Partner with Universities for Accredited Programs",
+        "image_url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+        "description": "Traditional universities are collaborating with coding bootcamps to offer accelerated, industry-aligned technology education programs that carry academic credit and recognized credentials.",
+        "category_id": 3
+    },
+    {
+        "id": 10,
+        "title": "Study Finds Shorter School Weeks Improve Student Performance",
+        "image_url": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d",
+        "description": "Districts experimenting with four-day school weeks report unexpected benefits including better attendance, higher test scores, and improved teacher retention rates.",
+        "category_id": 3
+    }
+]
